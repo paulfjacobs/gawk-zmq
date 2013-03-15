@@ -1,0 +1,2 @@
+./server.awk &
+./client.awk
